@@ -1,1 +1,7 @@
 c:\users\elsa\documents\visual studio 2013\Projects\Complex Events with Delegates\Complex Events with Delegates\bin\Debug\Complex Events with Delegates.exe.config
+C:\Work\Claim\Delegates-and-Events\Complex Events with Delegates\Complex Events with Delegates\bin\Debug\Complex Events with Delegates.exe.config
+C:\Work\Claim\Delegates-and-Events\Complex Events with Delegates\Complex Events with Delegates\bin\Debug\Complex Events with Delegates.exe
+C:\Work\Claim\Delegates-and-Events\Complex Events with Delegates\Complex Events with Delegates\bin\Debug\Complex Events with Delegates.pdb
+C:\Work\Claim\Delegates-and-Events\Complex Events with Delegates\Complex Events with Delegates\obj\Debug\Complex Events with Delegates.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Delegates-and-Events\Complex Events with Delegates\Complex Events with Delegates\obj\Debug\Complex Events with Delegates.exe
+C:\Work\Claim\Delegates-and-Events\Complex Events with Delegates\Complex Events with Delegates\obj\Debug\Complex Events with Delegates.pdb

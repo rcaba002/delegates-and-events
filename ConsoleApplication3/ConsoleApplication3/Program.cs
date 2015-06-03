@@ -40,7 +40,7 @@ namespace SimpleEvent
         public static void Main()
         {
             EventTest e = new EventTest(5);
-            e.SetValue(7);
+            e.SetValue(5);
             e.SetValue(11);
             Console.ReadKey();
         }

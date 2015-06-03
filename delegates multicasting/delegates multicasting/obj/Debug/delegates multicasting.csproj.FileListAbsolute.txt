@@ -1,1 +1,2 @@
 c:\users\elsa\documents\visual studio 2013\Projects\delegates multicasting\delegates multicasting\bin\Debug\delegates multicasting.exe.config
+C:\Work\Claim\Delegates-and-Events\delegates multicasting\delegates multicasting\bin\Debug\delegates multicasting.exe.config

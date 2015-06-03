@@ -1,1 +1,7 @@
 c:\users\elsa\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Work\Claim\Delegates-and-Events\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Work\Claim\Delegates-and-Events\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Work\Claim\Delegates-and-Events\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Work\Claim\Delegates-and-Events\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Delegates-and-Events\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Work\Claim\Delegates-and-Events\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
